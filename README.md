@@ -1,6 +1,6 @@
 # 🏹17wanxiaoCheckin-Actions
 
-####随便打几个空格
+###随便打几个空格（customerid请手动改————loli-adoption）
 
 > 基于GitHub-Actions的完美校园健康打卡
 >
